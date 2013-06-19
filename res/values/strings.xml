@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slidame</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="play">Play</string>
+    <string name="grid">grid</string>
+    <string name="highscore">Highscore</string>
+    <string name="hint">Hint</string>
+    <string name="TimeSolving">Time Solving</string>
+    <string name="GridSize">Grid Size</string>
+    <string name="Move">Move</string>
+    <string name="credit"> Game by: R. Aji Joyo Y </string>
+
+</resources>

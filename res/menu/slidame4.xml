@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" ><item 
+        android:id="@+id/play" 
+        android:icon="@drawable/menu_icon"
+        android:title="@string/play" android:showAsAction="never">
+        <menu>
+            <group android:id="@+id/group1" android:checkableBehavior="single">
+            <item android:id="@+id/grid3" android:title="3x3"/>
+            <item android:id="@+id/grid4" android:title="4x4"/>
+            <item android:id="@+id/grid5" android:title="5x5"/>    
+                
+            </group>
+            
+            
+        </menu>
+    </item>
+    <item android:id="@+id/highscore" android:title="@string/highscore"></item>
+    <item android:id="@+id/hint" android:title="@string/hint"></item>
+    
+
+
+</menu>
